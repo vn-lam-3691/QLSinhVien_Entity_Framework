@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QLSinhVien_DatabaseFirst.props" />
+</Project>
